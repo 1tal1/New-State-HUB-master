@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399145258779",
+    "project_id": "new-state-hub-aa78f",
+    "storage_bucket": "new-state-hub-aa78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399145258779:android:a67e9fb264a1b8e80d4dbe",
+        "android_client_info": {
+          "package_name": "com.loer.nshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399145258779-f64erqg4pe75iq9ado9a7hjafk6s3vqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yfENM0bRysRHMHHk7LoMxTbkwlyI4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399145258779-f64erqg4pe75iq9ado9a7hjafk6s3vqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
